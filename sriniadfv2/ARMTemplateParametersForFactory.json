@@ -10,6 +10,9 @@
 		},
 		"SqlServerlink_connectionString": {
 			"value": ""
+		},
+		"AzureSqlDatabaselink_connectionString": {
+			"value": ""
 		}
 	}
 }
