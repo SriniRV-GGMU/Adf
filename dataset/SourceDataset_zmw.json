@@ -1,0 +1,12 @@
+{
+	"name": "SourceDataset_zmw",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SqlServerlink",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	}
+}
