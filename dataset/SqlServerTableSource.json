@@ -1,0 +1,16 @@
+{
+	"name": "SqlServerTableSource",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SqlServerlink",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "emp"
+		}
+	}
+}
