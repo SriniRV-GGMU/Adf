@@ -1,0 +1,22 @@
+{
+	"name": "DestinationDataset_zmw",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStoragelink",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "emp",
+				"container": "input"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
