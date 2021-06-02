@@ -4,7 +4,7 @@
 		"activities": [
 			{
 				"name": "Lookuptablelist",
-				"description": "To Lookupvalues for all tables.",
+				"description": "To Lookupvalues for all tables. Dev2",
 				"type": "Lookup",
 				"dependsOn": [],
 				"policy": {
@@ -34,6 +34,7 @@
 			},
 			{
 				"name": "TriggerPipeline",
+				"description": "Trigger Pipeline, Dev2.",
 				"type": "ExecutePipeline",
 				"dependsOn": [
 					{
