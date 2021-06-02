@@ -8,10 +8,10 @@
 		"AzureBlobStoragelink_connectionString": {
 			"value": ""
 		},
-		"SqlServerlink_connectionString": {
+		"AzureSqlDatabaselink_connectionString": {
 			"value": ""
 		},
-		"AzureSqlDatabaselink_connectionString": {
+		"SqlServerlink_connectionString": {
 			"value": ""
 		},
 		"containerUri": {
