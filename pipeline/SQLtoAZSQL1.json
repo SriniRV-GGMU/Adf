@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "Lookuptablelist",
+				"description": "To Lookupvalues for all tables.",
 				"type": "Lookup",
 				"dependsOn": [],
 				"policy": {
